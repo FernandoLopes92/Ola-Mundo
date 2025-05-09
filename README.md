@@ -11,8 +11,8 @@ __Negrito__
 
 Lista Numerada
 1. Teste 1
-1. Teste 2
-  1.Teste 1(Três espaços)
+1. Teste2
+   1.Teste 1(Três espaços)
    2.Teste 2(Três espaços)
 1. Teste 3
 
