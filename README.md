@@ -21,6 +21,6 @@ Lista demarcada
 * Teste 2
 
 Lista de Tarefas
-- [] Criar Página
-- [] Criar reunião
+- [ ] Criar Página
+- [ ] Criar reunião
 - [x] Receber salário
